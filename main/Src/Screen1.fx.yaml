@@ -1,3 +1,8 @@
 Screen1 As screen:
     BackgroundImage: =
 
+    DatePicker1 As datepicker:
+        X: =40
+        Y: =40
+        ZIndex: =1
+

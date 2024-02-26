@@ -3,12 +3,13 @@
   "ControlUniqueGuids": {},
   "ControlUniqueIds": {
     "App": 1,
+    "DatePicker1": 5,
     "Host": 3,
     "Screen1": 4
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:11:00",
+  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:11:23",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -24,9 +25,12 @@
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
-  "OrderXMLTemplate": {},
+  "OrderXMLTemplate": {
+    "datepicker": 0
+  },
   "OverridablePropertiesEntry": {
     "App": {},
+    "DatePicker1": {},
     "Host": {},
     "Screen1": {}
   },
@@ -34,6 +38,7 @@
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
+    "DatePicker1": 0,
     "Host": 0,
     "Screen1": 0
   },
