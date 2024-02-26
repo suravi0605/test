@@ -1,0 +1,53 @@
+{
+  "ComponentIndexes": {},
+  "ControlUniqueGuids": {},
+  "ControlUniqueIds": {
+    "App": 1,
+    "Host": 3,
+    "Screen1": 4
+  },
+  "FunctionParamsInvariantScripts": {},
+  "FunctionParamsInvariantScriptsOnInstances": {},
+  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:11:00",
+  "IsLegacyComponentAllowGlobalScopeCase": false,
+  "LocalConnectionIDReferences": {},
+  "LocalDatabaseReferencesAsEmpty": true,
+  "LocalResourceFileNames": {
+    "IMG-20221208-WA0001": "cc5f522d-ba69-429e-af35-075f8460ea82.jpg"
+  },
+  "LocalResourceRootPaths": {
+    "IMG-20221208-WA0001": "https://docserverpwaprodcin.blob.core.windows.net/e76e634c-0fc9-4baf-b2a7-8e0c1572f6f5-1/resource/Assets0Images0cc5f522d-ba69-429e-af35-075f8460ea82.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-26T11%3A05%3A58Z&ske=2024-02-27T11%3A20%3A58Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-27T11%3A20%3A58Z&sr=b&sp=r&sig=WpS9ioQdgza48w%2FAwOcsyVLZBeqabdF7dcawl8JaEGI%3D"
+  },
+  "OrderComponentMetadata": {},
+  "OrderComponentTemplate": {},
+  "OrderDataSource": {},
+  "OrderGroupControls": {},
+  "OrderPcfTemplate": {},
+  "OrderTemplate": {},
+  "OrderXMLTemplate": {},
+  "OverridablePropertiesEntry": {
+    "App": {},
+    "Host": {},
+    "Screen1": {}
+  },
+  "PCFDynamicSchemaForIRRetrievalEntry": {},
+  "PCFTemplateEntry": {},
+  "PublishOrderIndices": {
+    "App": 0,
+    "Host": 0,
+    "Screen1": 0
+  },
+  "ResourcesJsonIndices": {
+    "Image-IMG-20221208-WA0001": 0
+  },
+  "RuleScreenIdWithoutScreen": {},
+  "TemplateVersions": {},
+  "VolatileProperties": {
+    "AnalysisLoadTime": 0.0478526,
+    "ControlCount": {
+      "screen": 1
+    },
+    "DeserializationLoadTime": 0.7852259
+  },
+  "WasLocalDatabaseReferencesEmpty": true
+}
