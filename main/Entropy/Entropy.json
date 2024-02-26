@@ -17,7 +17,7 @@
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:12:01",
+  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:12:37",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -25,7 +25,7 @@
     "IMG-20221208-WA0001": "cc5f522d-ba69-429e-af35-075f8460ea82.jpg"
   },
   "LocalResourceRootPaths": {
-    "IMG-20221208-WA0001": "https://docserverpwaprodcin.blob.core.windows.net/e76e634c-0fc9-4baf-b2a7-8e0c1572f6f5-1/resource/Assets0Images0cc5f522d-ba69-429e-af35-075f8460ea82.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-26T11%3A05%3A58Z&ske=2024-02-27T11%3A20%3A58Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-27T11%3A20%3A58Z&sr=b&sp=r&sig=WpS9ioQdgza48w%2FAwOcsyVLZBeqabdF7dcawl8JaEGI%3D"
+    "IMG-20221208-WA0001": "https://docserverpwaprodcin.blob.core.windows.net/025380d3-2c86-43a4-9bab-cc5e973d707c-1/resource/Assets0Images0cc5f522d-ba69-429e-af35-075f8460ea82.jpg?skoid=58690ece-ec83-4ce2-9ce8-883d4d6a54ee&sktid=975f013f-7f24-47e8-a7d3-abc4752bf346&skt=2024-02-26T11%3A12%3A23Z&ske=2024-02-27T11%3A27%3A23Z&sks=b&skv=2022-11-02&sv=2022-11-02&spr=https&se=2024-02-27T11%3A27%3A23Z&sr=b&sp=r&sig=ulgN8M7FiuFCYasaWLZK0llEzAD%2Fqu89PA47zyHyPlw%3D"
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
@@ -80,11 +80,18 @@
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
   "VolatileProperties": {
-    "AnalysisLoadTime": 0.0478526,
+    "AnalysisLoadTime": 0.1152814,
     "ControlCount": {
+      "datepicker": 1,
+      "gallery": 1,
+      "galleryTemplate": 1,
+      "icon": 1,
+      "image": 1,
+      "label": 2,
+      "rectangle": 2,
       "screen": 1
     },
-    "DeserializationLoadTime": 0.7852259
+    "DeserializationLoadTime": 0.9693582
   },
   "WasLocalDatabaseReferencesEmpty": true
 }
