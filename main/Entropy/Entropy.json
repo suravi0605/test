@@ -4,12 +4,20 @@
   "ControlUniqueIds": {
     "App": 1,
     "DatePicker1": 5,
+    "Gallery1": 6,
+    "galleryTemplate1": 7,
     "Host": 3,
-    "Screen1": 4
+    "Image1": 8,
+    "NextArrow1": 11,
+    "Rectangle1": 13,
+    "Screen1": 4,
+    "Separator1": 12,
+    "Subtitle1": 10,
+    "Title1": 9
   },
   "FunctionParamsInvariantScripts": {},
   "FunctionParamsInvariantScriptsOnInstances": {},
-  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:11:23",
+  "HeaderLastSavedDateTimeUTC": "02/26/2024 11:12:01",
   "IsLegacyComponentAllowGlobalScopeCase": false,
   "LocalConnectionIDReferences": {},
   "LocalDatabaseReferencesAsEmpty": true,
@@ -21,29 +29,53 @@
   },
   "OrderComponentMetadata": {},
   "OrderComponentTemplate": {},
-  "OrderDataSource": {},
+  "OrderDataSource": {
+    "CustomGallerySample": 0
+  },
   "OrderGroupControls": {},
   "OrderPcfTemplate": {},
   "OrderTemplate": {},
   "OrderXMLTemplate": {
-    "datepicker": 0
+    "datepicker": 0,
+    "gallery": 1,
+    "icon": 4,
+    "image": 2,
+    "label": 3,
+    "rectangle": 5
   },
   "OverridablePropertiesEntry": {
     "App": {},
     "DatePicker1": {},
+    "Gallery1": {},
+    "galleryTemplate1": {},
     "Host": {},
-    "Screen1": {}
+    "Image1": {},
+    "NextArrow1": {},
+    "Rectangle1": {},
+    "Screen1": {},
+    "Separator1": {},
+    "Subtitle1": {},
+    "Title1": {}
   },
   "PCFDynamicSchemaForIRRetrievalEntry": {},
   "PCFTemplateEntry": {},
   "PublishOrderIndices": {
     "App": 0,
     "DatePicker1": 0,
+    "Gallery1": 0,
+    "galleryTemplate1": 0,
     "Host": 0,
-    "Screen1": 0
+    "Image1": 0,
+    "NextArrow1": 0,
+    "Rectangle1": 0,
+    "Screen1": 0,
+    "Separator1": 0,
+    "Subtitle1": 0,
+    "Title1": 0
   },
   "ResourcesJsonIndices": {
-    "Image-IMG-20221208-WA0001": 0
+    "Image-IMG-20221208-WA0001": 0,
+    "Image-SampleImage": 1
   },
   "RuleScreenIdWithoutScreen": {},
   "TemplateVersions": {},
